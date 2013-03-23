@@ -1,0 +1,38 @@
+[Eagle]
+Version="06 04 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/jumper.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/rcl.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_arduino.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_connect.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_diode.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_metalab.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_miscic.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_modules.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_passive.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_photosens.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_prog.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_switch.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_transistor.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mp_vreg.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mpc_frames.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mpc_icpackage.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mpc_pinhead.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mpc_supply1.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/MetaParts_EagleLbr/mpc_supply2.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="25 57 1279 795"
+State=1
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
