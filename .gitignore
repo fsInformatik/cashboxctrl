@@ -20,3 +20,6 @@
 wiring/*.b#*
 wiring/*.s#*
 
+# avr
+*.hex
+*.elf
