@@ -15358,8 +15358,8 @@ high speed (Philips)</description>
 <wire x1="7.62" y1="104.14" x2="17.78" y2="104.14" width="0.1524" layer="91"/>
 <junction x="7.62" y="104.14"/>
 <pinref part="U$1" gate="G$1" pin="VIN-"/>
-<wire x1="50.8" y1="104.14" x2="27.94" y2="104.14" width="0.1524" layer="91"/>
 <junction x="27.94" y="104.14"/>
+<wire x1="50.8" y1="104.14" x2="27.94" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND6" gate="1" pin="GND"/>
